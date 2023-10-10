@@ -6,6 +6,8 @@
 🔳 Developing the UI of the game using JavaFX
 
 
+
+
 The Hangman-Game is a word gussing game. It is a fun and educational game that can help you learn new words, improve your spelling, and practice your vocabulary. You can play Hangman with your friends, family, or online with websites like Hangman Game or Word Search Puzzles.
 
 ### Build with
