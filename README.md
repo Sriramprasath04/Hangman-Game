@@ -1,6 +1,8 @@
 # Hangman-Game
 
 ☑️ Developed the logic of the Hangman-Game using Java
+
+
 🔳 Developing the UI of the game using JavaFX
 
 
