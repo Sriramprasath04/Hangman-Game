@@ -18,7 +18,7 @@ The Hangman-Game is a word gussing game. It is a fun and educational game that c
 
 If you want to discuss about something, you can ask on my
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%20sriramprasath-p-78bb8a243)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriramprasath-p-78bb8a243)
 
 
 ⭐ Star us on GitHub — it helps!
